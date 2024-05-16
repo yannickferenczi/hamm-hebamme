@@ -26,3 +26,11 @@ Minimum Viable Product:
 - A page for registered users to create courses
 - A contact form
 - 
+
+## Features to be implemented
+
+- A navigation menu
+- An authentication system
+- A logo
+- A banner
+- 
